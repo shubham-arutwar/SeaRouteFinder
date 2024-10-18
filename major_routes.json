@@ -1,0 +1,69 @@
+{
+  "routes": [
+    {
+      "from": 1,
+      "to": 2,
+      "distance": 5900,
+      "route": [
+        {
+          "long": 31.723687,
+          "lat": 63.28972
+        },
+        {
+          "long": 31.723687,
+          "lat": 63.28972
+        },
+        {
+          "long": 31.723687,
+          "lat": 63.28972
+        },
+        {
+          "long": 31.723687,
+          "lat": 63.28972
+        },
+        {
+          "long": 31.723687,
+          "lat": 63.28972
+        },
+        {
+          "long": 31.723687,
+          "lat": 63.28972
+        }
+      ]
+    },
+    { "from": 19, "to": 3, "distance": 2000 },
+    { "from": 17, "to": 19, "distance": 1800 },
+    { "from": 1, "to": 25, "distance": 6200 },
+    { "from": 1, "to": 4, "distance": 3500 },
+    { "from": 12, "to": 3, "distance": 3000 },
+    { "from": 2, "to": 25, "distance": 5100 },
+    { "from": 13, "to": 1, "distance": 2600 },
+    { "from": 3, "to": 2, "distance": 7000 },
+    { "from": 3, "to": 4, "distance": 1500 },
+    { "from": 4, "to": 2, "distance": 5800 },
+    { "from": 4, "to": 5, "distance": 4500 },
+    { "from": 5, "to": 6, "distance": 10400 },
+    { "from": 5, "to": 4, "distance": 6000 },
+    { "from": 5, "to": 1, "distance": 7000 },
+    { "from": 7, "to": 3, "distance": 1800 },
+    { "from": 8, "to": 2, "distance": 5500 },
+    { "from": 8, "to": 13, "distance": 5800 },
+    { "from": 9, "to": 10, "distance": 11000 },
+    { "from": 11, "to": 12, "distance": 10200 },
+    { "from": 6, "to": 13, "distance": 400 },
+    { "from": 13, "to": 8, "distance": 5800 },
+    { "from": 14, "to": 2, "distance": 6000 },
+    { "from": 10, "to": 3, "distance": 9000 },
+    { "from": 15, "to": 7, "distance": 1200 },
+    { "from": 16, "to": 17, "distance": 800 },
+    { "from": 18, "to": 13, "distance": 7500 },
+    { "from": 19, "to": 1, "distance": 1800 },
+    { "from": 20, "to": 3, "distance": 600 },
+    { "from": 21, "to": 22, "distance": 1500 },
+    { "from": 12, "to": 23, "distance": 5600 },
+    { "from": 24, "to": 3, "distance": 900 },
+    { "from": 25, "to": 2, "distance": 5100 },
+    { "from": 3, "to": 4, "distance": 1500 },
+    { "from": 25, "to": 1, "distance": 6400 }
+  ]
+}
