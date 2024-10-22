@@ -1,0 +1,42 @@
+.project-details {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #282c34;
+  color: white;
+}
+
+.project-details h1 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: #61dafb;
+}
+
+.project-details h2 {
+  margin-top: 15px;
+  margin-bottom: 5px;
+  color: #b3efff;
+}
+
+.project-details p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  line-height: 1.6;
+}
+
+.project-details a {
+  color: #61dafb;
+}
+
+.project-details ul {
+  margin-top: 10px;
+  padding-left: 20px;
+}
+
+.project-details ul li {
+  margin-bottom: 5px;
+}
+
+.project-details ul li:before {
+  margin-right: 5px;
+}
